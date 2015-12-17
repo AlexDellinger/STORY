@@ -1,2 +1,2 @@
 # STORY
-It's a STORY what else? NoThInG dUmB pEoPlE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+This is the directory for the roleplaying story engine.
